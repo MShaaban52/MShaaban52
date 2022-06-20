@@ -1,5 +1,4 @@
 <?php
-system("echo `pwd`");
 phpinfo();
 ?>
 
